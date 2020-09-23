@@ -1,0 +1,29 @@
+{
+  "campaigns": [
+    {
+      "id": "5b64c851-2630-4956-9b57-06d4b0c02f76",
+      "name": "Campaign1",
+      "budget": 2000
+    },
+    {
+      "id": "d09ba9c7-eba1-4594-adf0-cad48f3495ef",
+      "name": "Campaign2",
+      "budget": 2000
+    },
+    {
+      "id": "5aded0ff-1906-4fe8-82a0-b945529e8e7a",
+      "name": "Campaign3",
+      "budget": 2000
+    },
+    {
+      "id": "953e87b0-94b7-4329-87a4-ee1865b82ac4",
+      "name": "Campaign4",
+      "budget": 2000
+    },
+    {
+      "id": "8d97178e-205e-4a19-8483-fe7581760fef",
+      "name": "Campaign5",
+      "budget": 2000
+    }
+  ]
+}
