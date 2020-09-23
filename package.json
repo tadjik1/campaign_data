@@ -1,0 +1,23 @@
+{
+  "name": "campaign_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadjik1/campaign_data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadjik1/campaign_data/issues"
+  },
+  "homepage": "https://github.com/tadjik1/campaign_data#readme",
+  "dependencies": {
+    "uuid": "^8.3.0"
+  }
+}
