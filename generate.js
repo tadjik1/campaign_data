@@ -9,7 +9,7 @@ function rnd(min, max) {
 async function main() {
   const num_of_campaigns = 100;
   const num_of_categories = 10;
-  const num_of_products = 1000;
+  const num_of_products = 500;
 
   const campaigns = [];
   const categories = [];
@@ -42,7 +42,7 @@ async function main() {
 
   for (const campaign of campaigns) {
     const products_set = new Set()
-    for (let z = 0; z < rnd(40, 80); z++) {
+    for (let z = 0; z < rnd(20, 40); z++) {
       products_set.add(products[rnd(0, num_of_products)].id);
     }
     campaign.products = Array.from(products_set);
